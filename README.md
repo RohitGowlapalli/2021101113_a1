@@ -2,7 +2,7 @@
 # 2021101113
 # Introduction to Software Systems – Spring 2022
 # Gowlapalli Rohit
-## Github Repository Link------>https://github.com/RohitGowlapalli/2021101113_ISS_Assgn-1
+## Github Repository Link------>[GITHUB LINK](https://github.com/RohitGowlapalli/2021101113_a1)
 
 >##### All these commands are tested on Ubuntu Version 20.04.3 LTS (Focal Fossa) 
 ```
